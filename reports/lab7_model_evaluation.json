@@ -1,0 +1,9 @@
+{
+    "model": "RandomForestRegressor",
+    "MAE": 10562.941296228426,
+    "MSE": 228124004.5124584,
+    "RMSE": 15103.774512103206,
+    "R2_Score": 0.8792858630865209,
+    "evaluation_status": "SUCCESS",
+    "timestamp": "2026-11-03T10:12:10.018718"
+}
